@@ -18,7 +18,9 @@
   margin: 0;
   scroll-behavior: smooth;
 }
-
+p {
+  color: var(--color-white);
+}
 a {
   color: unset;
   text-decoration: none;

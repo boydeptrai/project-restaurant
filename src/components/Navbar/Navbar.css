@@ -31,6 +31,7 @@
 .app__navbar-links li {
     margin: 0 1rem;
     cursor: pointer;
+    color: var(--color-white);
 }
 
 .app__navbar-links a:hover {
